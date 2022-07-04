@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Byron Donaldson</title>
+    <link>https://byrondonaldson.github.io/</link>
+    <description>Recent content in Home on Byron Donaldson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://byrondonaldson.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://byrondonaldson.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byrondonaldson.github.io/about/</guid>
+      <description>I live in little old Johannesburg, South Africa, entering into the final scramble to finish my PhD student in sprint biomechanics at the University of Pretoria. Some other things I currently like / am interested in:
+ Running fast [not myself, obviously] Running slowly [mm better] Reading Writing Rocking chairs Log cabins Coffee Moving to unusual and off track places  I sort of just want to live in a log cabin in Argentina.</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>https://byrondonaldson.github.io/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byrondonaldson.github.io/links/</guid>
+      <description>Arrival - Facing the Fear of Existence, Like Stories of Old Paterson - Everyday Virtue &amp;amp; David Foster Wallace - Like Stories of Old The bus ticket theory of genius, Paul Graham Cities and Ambition, Paul Graham The cook and the chef, Tim Urban The Tail End, Tim Urban What has any of this got to do with Physics? Bob Henderson Mimetic traps, Brian Timar The days are long but the decades are short, Sam Altman Self Reliance, Ralph Waldo Emerson Security, Hunter S.</description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>https://byrondonaldson.github.io/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byrondonaldson.github.io/papers/</guid>
+      <description>google scholar
+ Hohl R., Blackhurst D.M., Donaldson B., van Boom K., Kohn T.A. (2020), Wild antelope skeletal muscle antioxidant enzyme activities do not correlate with muscle fibre type or oxidative metabolism, Comparative Biochemistry and Physiology Part A, 242: 110638, https://doi.org/10.1016/j.cbpa.2019.110638  </description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>https://byrondonaldson.github.io/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byrondonaldson.github.io/writing/</guid>
+      <description>Don&amp;rsquo;t worry about it.</description>
+    </item>
+    
+  </channel>
+</rss>
